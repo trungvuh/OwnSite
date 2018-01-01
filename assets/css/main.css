@@ -2048,8 +2048,13 @@
 				width: 100%;
 			}
 
+			.inner > h3{
+				/* padding: 1em 0; */
+				margin-top: 1em;
+			}
+
 				ul.icons.major li {
-					padding: 1.5em;
+					padding: 1.25em;
 					/* padding-bottom: 2em; */
 				}
 
@@ -2511,6 +2516,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
+		padding: 0 10%;
 	}
 
 	/* this is for the logo of education */
@@ -2521,7 +2527,7 @@
 			order: 1;
 			border-radius: 0;
 			margin: 1em;
-			width: 20%;
+			width: 15%;
 		}
 
 			.spotlight .image img {
@@ -2544,16 +2550,22 @@
 		} */
 
 		.spotlight .content {
-			padding: 2em 3em 0.1em 3em ;
+			padding: 2em 6em 0.1em 0 ;
 			-moz-order: 2;
 			-webkit-order: 2;
 			-ms-order: 2;
 			order: 2;
-			max-width: 48em;
+			/* max-width: 48em; */
 			width: 80%;
 		}
 
-		.spotlight:nth-child(2n) {
+		.spotlight:nth-child(2) {
+			-moz-flex-direction: row-reverse;
+			-webkit-flex-direction: row-reverse;
+			-ms-flex-direction: row-reverse;
+			flex-direction: row-reverse;
+		}
+		.spotlight:nth-child(3) {
 			-moz-flex-direction: row-reverse;
 			-webkit-flex-direction: row-reverse;
 			-ms-flex-direction: row-reverse;
@@ -2605,7 +2617,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.spotlight .image {
-				width: 20%;
+				width: 15%;
 			}
 
 			.spotlight .content {
@@ -2627,7 +2639,7 @@
 				}
 
 				.spotlight .image {
-					width: 50%;
+					width: 40%;
 				}
 
 				.spotlight .content {
@@ -2650,7 +2662,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0 ;
+		padding: 4em 0 2em 0 ;
 	}
 
 		.wrapper > .inner {
@@ -3202,6 +3214,8 @@
 			z-index: 10001;
 		}
 
+		/* this is for menu about */
+
 	#menu {
 		-moz-transform: translateX(20em);
 		-webkit-transform: translateX(20em);
@@ -3253,6 +3267,10 @@
 					text-transform: uppercase;
 				}
 
+				#menu ul > li > a:hover {
+					color: #5d5d5d;
+				}
+
 					@media screen and (max-width: 736px) {
 
 						#menu ul > li > a {
@@ -3285,7 +3303,7 @@
 		}
 
 	body.is-menu-visible #page-wrapper {
-		opacity: 0.35;
+		opacity: 0.4;
 	}
 
 		body.is-menu-visible #page-wrapper:before {
@@ -3349,6 +3367,15 @@
 			position: absolute;
 			right: 0;
 			top: 0;
+		}
+
+		#nav {
+			display: flex;
+		}
+
+		#nav > a.icon {
+			margin: 0 1em;
+			font-size: 1.5em;
 		}
 
 			#header nav > ul {
@@ -3495,6 +3522,13 @@
 		#banner p {
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
+			margin-bottom: 1.5em;
+		}
+
+		#banner span {
+			letter-spacing: 0.15em;
+			font-style: italic;
+			/* text-transform: uppercase; */
 		}
 
 			#banner p a {
