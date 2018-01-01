@@ -3721,6 +3721,7 @@
 
 			#cta .inner .actions {
 				width: 30%;
+				min-width: 10em;
 			}
 
 			.actions.vertical {
