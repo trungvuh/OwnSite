@@ -2526,8 +2526,8 @@
 			-ms-order: 1;
 			order: 1;
 			border-radius: 0;
-			margin: 1em;
-			width: 15%;
+			margin: 2em;
+			width: 16%;
 		}
 
 			.spotlight .image img {
@@ -2617,7 +2617,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.spotlight .image {
-				width: 15%;
+				width: 16%;
 			}
 
 			.spotlight .content {
@@ -2861,6 +2861,14 @@
 		/* image for projects */
 		.wrapper.style3 img {
 			width: 100%;
+		}
+
+		.wrapper.style3 > a {
+			/* text-decoration: none; */
+		}
+
+		.features > li > h3:hover {
+			border-bottom: solid 1px;
 		}
 
 		.wrapper.style3 .projects {
