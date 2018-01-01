@@ -2042,14 +2042,14 @@
 					padding-right: 0 !important;
 				}
 
-			/* this is for the dev icon on home page */
+			/* this is for the dev icon on home page, for skill */
 			ul.icons.major {
 				/* padding: 1em 0; */
-				width: 75%;
+				width: 100%;
 			}
 
 				ul.icons.major li {
-					padding: 2em;
+					padding: 1.5em;
 					/* padding-bottom: 2em; */
 				}
 
@@ -2084,6 +2084,7 @@
 			ul.actions.vertical li {
 				display: block;
 				padding: 1.5em 0 0 0;
+				margin: 0 1em 0 0;
 			}
 
 				ul.actions.vertical li:first-child {
@@ -2520,7 +2521,7 @@
 			order: 1;
 			border-radius: 0;
 			margin: 1em;
-			width: 25%;
+			width: 20%;
 		}
 
 			.spotlight .image img {
@@ -2531,6 +2532,16 @@
 		#PCC {
 			margin: 4em 2em;
 		}
+
+		.spotlight.edu {
+			flex-direction: column;
+			padding-top: 2em;
+			padding-bottom: 1em;
+		}
+
+		/* #edu {
+			border-bottom: solid 2px #fff;
+		} */
 
 		.spotlight .content {
 			padding: 2em 3em 0.1em 3em ;
@@ -2549,19 +2560,21 @@
 			flex-direction: row-reverse;
 		}
 
-		.spotlight:nth-child(1) {
+
+		/* this take care of the intensity of color for education */
+		.spotlight:nth-child(4) {
 			background-color: rgba(0, 0, 0, 0.075);
 		}
 
-		.spotlight:nth-child(2) {
+		.spotlight:nth-child(3) {
 			background-color: rgba(0, 0, 0, 0.15);
 		}
 
-		.spotlight:nth-child(3) {
+		.spotlight:nth-child(2) {
 			background-color: rgba(0, 0, 0, 0.225);
 		}
 
-		.spotlight:nth-child(4) {
+		.spotlight:nth-child(1) {
 			background-color: rgba(0, 0, 0, 0.3);
 		}
 
@@ -2592,7 +2605,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.spotlight .image {
-				width: 25%;
+				width: 20%;
 			}
 
 			.spotlight .content {
@@ -2604,7 +2617,9 @@
 		@media screen and (max-width: 980px) {
 
 			.spotlight {
-				display: block;
+				display: flex;
+				flex-direction: column !important;
+				align-items: center;
 			}
 
 				.spotlight br {
@@ -2612,7 +2627,7 @@
 				}
 
 				.spotlight .image {
-					width: 90%;
+					width: 50%;
 				}
 
 				.spotlight .content {
@@ -2644,6 +2659,7 @@
 			display: flex;
 			flex-direction: column;
 			align-items: center;
+			text-align: center;
 		}
 
 			@media screen and (max-width: 1280px) {
@@ -3616,7 +3632,7 @@
 			-webkit-order: 1;
 			-ms-order: 1;
 			order: 1;
-			padding-right: 3em;
+			/* padding-right: 3em; */
 			width: 70%;
 		}
 
@@ -3631,6 +3647,12 @@
 			order: 2;
 			width: 30%;
 		}
+		/* this is for the button to download resume */
+		.actions.vertical {
+			display: flex;
+			justify-content: center;
+		}
+
 
 		@media screen and (max-width: 980px) {
 
@@ -3656,7 +3678,11 @@
 		@media screen and (max-width: 736px) {
 
 			#cta .inner .actions {
-				max-width: none;
+				max-width: 30%;
+			}
+
+			.actions.vertical {
+				display: block;
 			}
 
 		}
@@ -3736,13 +3762,18 @@
 /* Footer */
 
 	#footer {
-		padding: 6em 0 4em 0 ;
+		padding: 3em 0 1em 0 ;
 		background-color: #1d242a;
 		text-align: center;
 	}
 
 		#footer .icons {
-			font-size: 1.25em;
+			font-size: 2em;
+			margin-bottom: 1.5em;
+		}
+
+		#footer .icons > li{
+			margin: 0 1em;
 		}
 
 			#footer .icons a {
