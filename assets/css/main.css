@@ -2510,19 +2510,25 @@
 		display: flex;
 	}
 
+	/* this is for the logo of education */
 		.spotlight .image {
 			-moz-order: 1;
 			-webkit-order: 1;
 			-ms-order: 1;
 			order: 1;
 			border-radius: 0;
-			width: 40%;
+			margin: 1em;
+			width: 25%;
 		}
 
 			.spotlight .image img {
 				border-radius: 0;
 				width: 100%;
 			}
+
+		#PCC {
+			margin: 4em 2em;
+		}
 
 		.spotlight .content {
 			padding: 2em 4em 0.1em 4em ;
@@ -2584,7 +2590,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.spotlight .image {
-				width: 45%;
+				width: 25%;
 			}
 
 			.spotlight .content {
