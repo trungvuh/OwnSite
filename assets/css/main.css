@@ -3678,7 +3678,7 @@
 		@media screen and (max-width: 736px) {
 
 			#cta .inner .actions {
-				max-width: 30%;
+				width: 30%;
 			}
 
 			.actions.vertical {
@@ -3769,11 +3769,12 @@
 
 		#footer .icons {
 			font-size: 2em;
-			margin-bottom: 1.5em;
+			margin-bottom: 0;
 		}
 
 		#footer .icons > li{
 			margin: 0 1em;
+			margin-bottom: 1.5em;
 		}
 
 			#footer .icons a {
