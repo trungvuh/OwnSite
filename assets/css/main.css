@@ -2867,10 +2867,6 @@
 			/* text-decoration: none; */
 		}
 
-		.features > li > h3:hover {
-			border-bottom: solid 1px;
-		}
-
 		.wrapper.style3 .projects {
 			padding: 4%;
 		}
