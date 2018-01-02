@@ -1,0 +1,66 @@
+TRUNG VU
+Software Engineer
+Phone: 626.757.2911
+Email: trungvuh@gmail.com
+Location: San Francisco, CA
+LinkedIn: www.linkedin.com/trungvuh/ 
+Github: https://github.com/trungvuh 
+HomePage: https://trungvuh.github.io/TV/ 
+
+SKILLS
+Fluent: Ruby on Rails, React, Redux, JavaScript, HTML5, CSS, Sass, jQuery, AJAX, SQL, PostgreSQL, Webpack, Heroku, Git
+Learning: Python, Node.js, Express.js, MongoDB
+
+PROJECTS
+Doable - A website features a vast majority of DIY projects for babies and toddlers 
+Live: https://fspdoable.herokuapp.com/#/ 
+Github: https://github.com/trungvuh/Doable 
+		 	 	 							
+Built heavily with Ruby on Rails, JavaScript, React, and Redux
+Introduced BCrypt hashing for secure credentials validation and Figaro for storing sensitive content information
+Implemented drag-n-drop feature for instant upload and store image file in the Cloud using Cloudinary
+Incorporated Quill library for rich text editing and jQuery to make AJAX call using HTTP request for real time update search algorithm
+
+Route 66 - A first-person racing game built with HTML5 and JavaScript
+Live: https://trungvuh.github.io/Route66/ 
+Github:	 https://github.com/trungvuh/Route66 
+
+Applied translation-projection-scaling technique to create a pseudo-3D world feeling for user
+Improved difficulty dynamically by increasing speed through incrementing velocity and canvas segment rendering for seamless UX experiment
+			
+Wayside - An app for delivery services utilizing other drivers’ travel plans
+Live: https://stark-ocean-27601.herokuapp.com/ 
+Github: https://github.com/Tyler-Chi/FlexProject
+			
+Built with MongoDB for database and NodeJS and ExpressJS for RESTful API backend
+Utilized Google Map API Geolocation for multi-destinations map rendering and instant distance calculation
+Incorporated Google OAuth for secure user’s authentication
+Implemented unidirectional data flow with Flux for reliable DOM rendering
+				
+
+
+EDUCATION
+
+App Academy
+1000-hours full-stack immersive programming course with less than 5% acceptance rate, 2017
+
+Bachelor of Science
+Applied Mathematics, UCLA, 2016
+
+	
+EXPERIENCE
+			
+FINANCIAL ANALYST/ MARKETING DIRECTOR
+TapViral Startup, Part-time, May 2014 - May 2016
+
+Tracked and analyzed markets, customers, and clients’ budget spending
+Operated Tapviral, a group-developed platform used for managing and operating campaigns through Facebook and Instagram
+Developed a strong and effective skill in communication and persuasive conversation. Generated $100k in revenue for the company in 6 months
+		
+MANAGER						
+Osawa Shabu Shabu & Sushi Restaurant, Pasadena, May 2013 - September 2017
+
+Trained a team of 15 people to get familiar with new booking system, Open Table, resulted in almost 180% increase in nightly seatings
+Advised in switching and installing newer  and faster POS system, Revel
+Coordinated PR events for venue, including a recent feature on LA Times
+					
