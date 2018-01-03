@@ -29,7 +29,7 @@ Applied translation-projection-scaling technique to create a pseudo-3D world fee
 Improved difficulty dynamically by increasing speed through incrementing velocity and canvas segment rendering for seamless UX experiment
 			
 Wayside - An app for delivery services utilizing other drivers’ travel plans
-Live: https://way-side.herokuapp.com/ 
+Live: https://stark-ocean-27601.herokuapp.com/ 
 Github: https://github.com/Tyler-Chi/FlexProject
 			
 Built with MongoDB for database and NodeJS and ExpressJS for RESTful API backend
