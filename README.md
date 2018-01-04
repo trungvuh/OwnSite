@@ -1,6 +1,6 @@
 # Readme
 
-## [Home Page](https://trungvuh.github.io/TV/)
+## [Home Page](https://trungvuh.github.io/)
 
 
 
