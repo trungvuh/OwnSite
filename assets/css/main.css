@@ -2695,7 +2695,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #008080;
+			background-color: #2874A6;
 			/* #21b2a6 */
 			color: #c7ebe8;
 		}
@@ -2850,11 +2850,11 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #2e3842;
+			background-color: #707B7C;
 		}
 
 		.wrapper.style3 {
-			background-color: #008080;
+			background-color: #2874A6;
 			color: #d3d4e4;
 		}
 
@@ -3230,7 +3230,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #009a9a;
+		background: #2874A6;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
