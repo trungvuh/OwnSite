@@ -5,7 +5,7 @@ Email: trungvuh@gmail.com
 Location: San Francisco, CA
 LinkedIn: www.linkedin.com/trungvuh/ 
 Github: https://github.com/trungvuh 
-HomePage: https://trungvuh.github.io/TV/ 
+HomePage: https://trungvuh.github.io/ 
 
 SKILLS
 Fluent: Ruby on Rails, React, Redux, JavaScript, HTML5, CSS, Sass, jQuery, AJAX, SQL, PostgreSQL, Webpack, Heroku, Git
@@ -17,6 +17,7 @@ Live: https://fspdoable.herokuapp.com/#/
 Github: https://github.com/trungvuh/Doable 
 		 	 	 							
 Built heavily with Ruby on Rails, JavaScript, React, and Redux
+Incorporated RSpec testing framework to maintain a functional, consistent, DRY, and highly efficient style of code
 Introduced BCrypt hashing for secure credentials validation and Figaro for storing sensitive content information
 Implemented drag-n-drop feature for instant upload and store image file in the Cloud using Cloudinary
 Incorporated Quill library for rich text editing and jQuery to make AJAX call using HTTP request for real time update search algorithm
