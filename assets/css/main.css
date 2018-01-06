@@ -2695,7 +2695,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #2874A6;
+			background-color: #1E6896;
 			/* #21b2a6 */
 			color: #c7ebe8;
 		}
@@ -2854,7 +2854,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #2874A6;
+			background-color: #1E6896;
 			color: #d3d4e4;
 		}
 
@@ -3230,7 +3230,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #2874A6;
+		background: #1E6896;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
