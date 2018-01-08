@@ -22,9 +22,9 @@ Introduced BCrypt hashing for secure credentials validation and Figaro for stori
 Implemented drag-n-drop feature for instant upload and store image file in the Cloud using Cloudinary
 Incorporated Quill library for rich text editing and jQuery to make AJAX call using HTTP request for real time update search algorithm
 
-Route 66 - A first-person racing game built with HTML5 and JavaScript
-Live: https://trungvuh.github.io/Route66/ 
-Github:	 https://github.com/trungvuh/Route66 
+Route 101 - A first-person racing game built with HTML5 and JavaScript
+Live: https://trungvuh.github.io/Route101/ 
+Github:	 https://github.com/trungvuh/Route101 
 
 Applied translation-projection-scaling technique to create a pseudo-3D world feeling for user
 Improved difficulty dynamically by increasing speed through incrementing velocity and canvas segment rendering for seamless UX experiment
