@@ -8,7 +8,7 @@ Github: https://github.com/trungvuh
 HomePage: https://trungvuh.github.io/ 
 
 SKILLS
-Ruby on Rails, React, Redux, JavaScript, HTML5, CSS, Sass, jQuery, AJAX, SQL, PostgreSQL, Webpack, Heroku, Git
+Ruby on Rails, React, Redux, JavaScript, HTML5, CSS, Sass, jQuery, SQL, PostgreSQL, Webpack, Heroku, Git, RSpec, Jest
 Learning: Python, Node.js, Express.js, MongoDB
 
 PROJECTS
@@ -20,7 +20,7 @@ Github: https://github.com/trungvuh/Doable
 - Incorporated RSpec testing framework to maintain a functional, consistent, DRY, and highly efficient style of code
 - Introduced BCrypt hashing for secure credentials validation and Figaro for storing sensitive content information
 - Implemented drag-n-drop feature for instant upload and store image file in the Cloud using Cloudinary
-- Incorporated Quill library for rich text editing and jQuery to make AJAX call using HTTP request for real time update search algorithm
+- Incorporated Quill library for rich text editing and jQuery to make AJAX call for real-time update search algorithm
 
 Route 101 - JavaScript, HTML5, CSS
 A pseudo-3D first-person racing game
