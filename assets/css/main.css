@@ -3805,7 +3805,7 @@
 /* Footer */
 
 	#footer {
-		padding: 3em 0 1em 0 ;
+		padding: 4em 0 2em 0 ;
 		background-color: #1d242a;
 		text-align: center;
 	}
@@ -3853,6 +3853,7 @@
 
 				#footer .copyright li a {
 					color: inherit;
+					border-bottom: none;
 				}
 
 					#footer .copyright li a:hover {
