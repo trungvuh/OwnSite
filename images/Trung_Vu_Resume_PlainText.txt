@@ -19,13 +19,13 @@ Github: https://github.com/trungvuh/Doable
 		 	 	 							
 - Incorporated RSpec testing framework to maintain a functional, consistent, DRY, and highly efficient style of code
 - Introduced BCrypt hashing for secure credentials validation and Figaro for storing sensitive content information
-- Implemented drag-n-drop feature for instant upload and store image file in the Cloud using Cloudinary
+- Implemented drag-n-drop feature for instant upload and store image file in the Cloud using Cloudinary and AWS
 - Incorporated Quill library for rich text editing and jQuery to make AJAX call for real-time update search algorithm
 
 Route 101 - JavaScript, HTML5, CSS
 A pseudo-3D first-person racing game
 Live: https://trungvuh.github.io/Route101/ 
-Github:	 https://github.com/trungvuh/Route101 
+Github:	 https://github.com/trungvuh/Route101
 
 - Applied translation-projection-scaling technique to create a pseudo-3D world feeling for user
 - Improved difficulty dynamically by increasing speed through incrementing velocity and canvas segment rendering for seamless UX experiment
@@ -33,7 +33,7 @@ Github:	 https://github.com/trungvuh/Route101
 Wayside - MongoDB, NodeJS, ExpressJS, React
 An app for delivery services utilizing other drivers’ travel plans
 Live: https://stark-ocean-27601.herokuapp.com/ 
-Github: https://github.com/Tyler-Chi/FlexProject
+Github: https://github.com/Tyler-Chi/Wayside
 			
 - Utilized Google Map API Geolocation for multi-destinations map rendering and instant distance calculation
 - Incorporated Google OAuth for secure user’s authentication
