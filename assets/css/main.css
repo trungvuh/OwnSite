@@ -3805,7 +3805,8 @@
 /* Footer */
 
 	#footer {
-		padding: 4em 0 2em 0 ;
+		padding: 5em 0 3em 0 ;
+		/* margin: 2em 0; */
 		background-color: #1d242a;
 		text-align: center;
 	}
