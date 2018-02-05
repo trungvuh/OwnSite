@@ -1544,7 +1544,7 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px #fff;
+		border-bottom: solid 2px #dfdfdf;
 		margin: 3em 0;
 	}
 
@@ -2672,6 +2672,10 @@
 			display: flex;
 			flex-direction: column;
 			align-items: center;
+			text-align: justify;
+		}
+
+		.wrapper > .inner > header {
 			text-align: center;
 		}
 
@@ -3042,6 +3046,7 @@
 			}
 
 			.wrapper.style5 hr {
+				width: 100%;
 				border-color: #dfdfdf;
 			}
 
