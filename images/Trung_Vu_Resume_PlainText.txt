@@ -25,7 +25,7 @@ Github: https://github.com/trungvuh/Doable
 Route 101 - JavaScript, HTML5, CSS
 A pseudo-3D first-person racing game
 Live: https://trungvuh.github.io/Route101/ 
-Github:	 https://github.com/trungvuh/Route101
+Github:	 https://github.com/trungvuh/Route101 
 
 - Applied translation-projection-scaling technique to create a pseudo-3D world feeling for user
 - Improved difficulty dynamically by increasing speed through incrementing velocity and canvas segment rendering for seamless UX experiment
@@ -43,7 +43,7 @@ Github: https://github.com/Tyler-Chi/Wayside
 
 EDUCATION
 App Academy
-1000-hours full-stack immersive programming course with less than 5% acceptance rate, 2017
+1000-hours full-stack immersive programming cours, 2017
 
 Bachelor of Science
 Applied Mathematics, UCLA, 2016
